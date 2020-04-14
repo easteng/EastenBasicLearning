@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmAndDataStructure", "AlgorithmAndDataStructure\AlgorithmAndDataStructure.csproj", "{0213311F-2EC6-4D3C-8C1A-28E3B7021BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueue", "StackQueue\StackQueue.csproj", "{2E27A61D-0814-4324-B519-6D22AB291377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0213311F-2EC6-4D3C-8C1A-28E3B7021BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0213311F-2EC6-4D3C-8C1A-28E3B7021BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0213311F-2EC6-4D3C-8C1A-28E3B7021BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0213311F-2EC6-4D3C-8C1A-28E3B7021BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E27A61D-0814-4324-B519-6D22AB291377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E27A61D-0814-4324-B519-6D22AB291377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E27A61D-0814-4324-B519-6D22AB291377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E27A61D-0814-4324-B519-6D22AB291377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {412FD9A4-7C0E-4824-B6F3-659966AE1C2D}
+	EndGlobalSection
+EndGlobal
